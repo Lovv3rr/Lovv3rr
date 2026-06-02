@@ -70,5 +70,5 @@ Olá! Eu sou o **Lovv3rr**, um desenvolvedor apaixonado por criar sistemas robus
   <img src="https://github-readme-stats.vercel.app/api?username=Lovv3rr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00BFFF&title_color=00BFFF" alt="Estatísticas do GitHub" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovv3rr&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" height="150" />
   <br>
-  <img src="https://raw.githubusercontent.com/Lovv3rr/Lovv3rr/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Lovv3rr/Lovv3rr/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
