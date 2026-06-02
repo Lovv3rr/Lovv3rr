@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo.png" alt="Logo Rede Grimm" width="250">
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7B232&center=true&vCenter=true&width=600&lines=Construindo+a+Rede+Grimm;Desenvolvedor+%26+Arquiteto;Transformando+ideias+em+código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Construindo+o+futuro+da+Rede+Grimm;Desenvolvimento+Java+%26+Kotlin;Transformando+ideias+em+código" alt="Typing SVG" />
   
   <br>
 
