@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1e1e1e/f7b232?text=Espaço+para+um+Banner+da+Rede+Grimm" alt="Banner Rede Grimm">
-  <br><br>
-  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7B232&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+perfil+de+Lovv3rr;Desenvolvedor+%26+Admin;Rede+Grimm" alt="Typing SVG" />
   
-  <br>
-  <img src="COLOQUE_O_LINK_DA_SUA_LOGO_AQUI.png" alt="Rede Grimm Logo" width="180">
   <br>
 
   *Transformando ideias em experiências épicas no Minecraft e na Web.*
