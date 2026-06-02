@@ -54,6 +54,8 @@ A **Rede Grimm** não é apenas um servidor, é uma comunidade. Nosso objetivo �
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lovv3rr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=F7B232&title_color=F7B232" alt="Estatísticas do GitHub" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovv3rr&theme=tokyonight&hide_border=true&background=0D1117&ring=F7B232&fire=F7B232&currStreakLabel=F7B232" alt="GitHub Streak" height="150" />
+  <br>
+  <img src="https://raw.githubusercontent.com/Lovv3rr/Lovv3rr/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
