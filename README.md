@@ -1,28 +1,39 @@
 <div align="center">
-  <img src="logo.png" alt="Logo Rede Grimm" width="250">
-  <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Construindo+o+futuro+da+Rede+Grimm;Desenvolvimento+Java+%26+Kotlin;Transformando+ideias+em+código" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+Engineer;Java,+Kotlin+%26+Web" alt="Typing SVG" />
   
   <br>
 
-  *Transformando ideias em experiências épicas no Minecraft e na Web.*
+  *Transformando ideias em código e arquitetando sistemas escaláveis.*
   
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](#)
-  [![Loja](https://img.shields.io/badge/Loja-Rede_Grimm-%23F7B232.svg?style=for-the-badge&logo=minecraft&logoColor=white)](#)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 </div>
 
 ---
 
-### 👾 Sobre a Rede Grimm
-A **Rede Grimm** não é apenas um servidor, é uma comunidade. Nosso objetivo é trazer o melhor do Survival, Factions e Minigames com sistemas únicos e uma economia balanceada. Aqui você encontra os projetos de desenvolvimento, sites, plugins customizados e infraestrutura que fazem a rede acontecer.
+### 👨‍💻 Sobre Mim
+Olá! Eu sou o **Lovv3rr**, um desenvolvedor apaixonado por criar sistemas robustos, infraestrutura e aplicações web. Tenho um forte background no ecossistema Java/Kotlin, focado em backend, arquitetura de servidores e plugins.
 
-- 🌍 **IP do Servidor:** `redegrimm.com`
+- 🔭 Atualmente desenvolvendo a **[Rede Grimm](#)** e meus projetos pessoais.
+- 🌱 Aprendendo sempre mais sobre arquitetura de software e novas tecnologias web.
+- ⚡ Fato curioso: Consigo transformar café em código funcional.
+
+---
+
+### 🚀 Projetos em Destaque
+
+<div align="center">
+  <img src="logo.png" alt="Logo Rede Grimm" width="120" align="left">
+  <h4 align="left">Rede Grimm</h4>
+  <p align="left">Um network de Minecraft focado em trazer a melhor experiência de Survival e Factions, com sistemas próprios e economia customizada. Atuo como Desenvolvedor e Administrador principal deste projeto.</p>
+  <br clear="left"/>
+</div>
 
 ---
 
 ### 💻 Meu Arsenal de Ferramentas
 
-#### ⚔️ Minecraft & Backend
+#### ⚔️ Backend & Minecraft
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -52,16 +63,8 @@ A **Rede Grimm** não é apenas um servidor, é uma comunidade. Nosso objetivo �
 ### 📈 Estatísticas 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lovv3rr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=F7B232&title_color=F7B232" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovv3rr&theme=tokyonight&hide_border=true&background=0D1117&ring=F7B232&fire=F7B232&currStreakLabel=F7B232" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lovv3rr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00BFFF&title_color=00BFFF" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovv3rr&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" height="150" />
   <br>
   <img src="https://raw.githubusercontent.com/Lovv3rr/Lovv3rr/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
----
-
-<div align="center">
-  <br>
-  <i>"Construindo blocos e codificando o futuro."</i><br>
-  <b>Rede Grimm © 2026</b>
 </div>
