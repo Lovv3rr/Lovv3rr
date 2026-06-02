@@ -19,7 +19,7 @@
 ### 👾 Sobre a Rede Grimm
 A **Rede Grimm** não é apenas um servidor, é uma comunidade. Nosso objetivo é trazer o melhor do Survival, Factions e Minigames com sistemas únicos e uma economia balanceada. Aqui você encontra os projetos de desenvolvimento, sites, plugins customizados e infraestrutura que fazem a rede acontecer.
 
-- 🌍 **IP do Servidor:** `jogar.redegrimm.com` *(exemplo)*
+- 🌍 **IP do Servidor:** `redegrimm.com`
 
 ---
 
