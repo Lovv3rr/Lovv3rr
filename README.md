@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Banner Rede Grimm" width="800">
+  <img src="logo.png" alt="Logo Rede Grimm" width="250">
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7B232&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+perfil+de+Lovv3rr;Desenvolvedor+%26+Admin;Rede+Grimm" alt="Typing SVG" />
   
